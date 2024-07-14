@@ -8,12 +8,16 @@ This project provides a systematic process for managing a library system using M
 
 ### 2. Issue a book :
 <img width="273" alt="image" src="https://github.com/user-attachments/assets/50b20a20-1202-499d-bf2f-4508e79d1a0c">
+
 After issuing a book the count of books in library is automatically reduced.
+
 <img width="247" alt="image" src="https://github.com/user-attachments/assets/254d530b-334d-450a-b793-a10a561932cd">
 
 ### 3. Submit a book :
 <img width="241" alt="image" src="https://github.com/user-attachments/assets/f4c424f3-d333-45c6-b8a0-7491aea17543">
+
 After issuing a book the count of books in library is automatically increased.
+
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/c593040d-7aa0-474f-91ee-e133bdb48b75">
 
 ### 4. Delete a book :
